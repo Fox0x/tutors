@@ -1,0 +1,19 @@
+.App {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 10px 0 0 0;
+}
+
+.Customer {
+    border: 2px solid #5c5c5c;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 0 0 0;
+    cursor: pointer;
+}
